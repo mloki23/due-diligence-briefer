@@ -195,8 +195,12 @@ Cap at 2 searches.
 2. ...
 
 ## What The Seller Isn't Saying
-[2-3 insights surfaced by the research — things a broker memo wouldn't
-volunteer]
+*Pick the 2–3 most relevant to this deal — at least one must be supported by a specific finding:*
+- **Walkout risk:** If the owner handles key relationships or is the public face, what revenue leaves with them?
+- **Hidden capex:** Equipment age, lease renewals imminent, staff paid below-market (deferred cost bomb)
+- **Market timing signal:** Why is the seller selling now — plateau, new competitor, regulatory headwind?
+- **Concentration cliff:** What breaks if the top customer, supplier, or contract disappears?
+- **Earn-out trap:** Is the asking price padded with performance milestones that depend on the seller's cooperation post-sale?
 
 ## Negotiation Ammunition
 - [Specific weakness] → use this to push for [specific concession]
