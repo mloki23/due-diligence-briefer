@@ -1,5 +1,6 @@
-# due-diligence-briefer
-Before you write a cheque, know what you're really buying.
+# Due Diligence Briefer
+
+**An agent skill that evaluates any business for purchase using web research alone.** Calculates valuation multiples against industry benchmarks, ranks red flags by severity, builds a negotiation ammunition list, and delivers a BUY / CAUTION / PASS verdict — before you write a cheque.
 
 ## What It Does
 
